@@ -22,6 +22,10 @@ Scroll has been integrated on the following projects:
 
 Scroll is an open source zkEVM Layer 2 that helps scaling Ethereum. Scroll is bytecode equivalent with the EVM, which makes possible native compatibility for existing Ethereum applications. Learn more about Scroll in [the docs](https://docs.scroll.io/).
 
+## Scroll Uptime
+
+The uptime for Scroll can be check on the official Scroll website [here](https://status.scroll.io/)
+
 ## Contributors
 <a href="https://github.com/scroll-tech/contribute-to-scroll/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=scroll-tech/contribute-to-scroll" />
